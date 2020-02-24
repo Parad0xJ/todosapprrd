@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css?family=Alegreya&display=swap");
+body {
+    background-color: #bad6e8 !important;
+}
+.App {
+    font-family: "Alegreya", serif;
+    text-align: center;
+}
+.navbar,
+.footer {
+    background-color: rgb(180, 167, 216) !important;
+}
+
+#home {
+    margin-top: 30%;
+    margin-bottom: 50%;
+    margin-left: 95%;
+}
+
+.selected {
+    background-color: rgb(83, 179, 99);
+    color: rgb(7, 11, 68) !important;
+}
+.lien:hover {
+    background-color: rgb(83, 179, 99);
+}
+
+a {
+    color: rgb(175, 53, 16) !important;
+}
+a:hover {
+    color: rgb(7, 11, 68) !important;
+}
