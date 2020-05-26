@@ -1,7 +1,7 @@
 # todosapprrd
 >New app. Todos with api call &amp; react-router-dom
 
-*Cette fois j'ai utilisé HashRouter proposé par react-router-dom, suite au problème sur mon avant dernière application avec le routage et cette fois tout est correct et fonction bien au niveau des routes*
+*Cette fois j'ai utilisé HashRouter proposé par react-router-dom, suite au problème sur mon avant dernière application avec le routage et cette fois tout est correct et fonctionne bien au niveau des routes*
 
 [Voir le projet](https://parad0xj.github.io/todosapprrd/#/)
 
